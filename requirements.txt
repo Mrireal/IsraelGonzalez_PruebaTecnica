@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-google-genai
+langchain-google-vertexai
+langchain-community
+pypdf
+faiss-cpu
+python-dotenv
+google-cloud-aiplatform
+sentence-transformers
+langchain-huggingface
