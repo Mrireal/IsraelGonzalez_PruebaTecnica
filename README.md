@@ -76,7 +76,7 @@ Inicia el servidor de desarrollo:
 ```bash
 uvicorn app.main:app --reload
 ```
-La API estará disponible en `http://127.0.0.1:8000`.(si da algun error de librerias por ejemplo no existe langchain-google-vertexai, es necesario hacerlo de la siguiente manera: 1.- .\.venv\Scripts\Activate 2.- uvicorn app.main:app --reload)
+La API estará disponible en `http://127.0.0.1:8000`.
 
 ---
 
